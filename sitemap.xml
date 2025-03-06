@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on March 6, 2025 at 7:49 am by All in One SEO v4.8.0 - the original SEO plugin for WordPress. -->
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=root"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<sitemap>
-		<loc><![CDATA[/post-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2024-12-23T13:03:12+00:00]]></lastmod>
-	</sitemap>
-	<sitemap>
-		<loc><![CDATA[/page-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2025-03-06T07:36:46+00:00]]></lastmod>
-	</sitemap>
-	<sitemap>
-		<loc><![CDATA[/category-sitemap.xml]]></loc>
-		<lastmod><![CDATA[2024-12-23T13:03:12+00:00]]></lastmod>
-	</sitemap>
-</sitemapindex>
+
+<url>
+  <loc>https://www.madhulika.co.in/</loc>
+  <lastmod>2025-02-18T15:05:31+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.madhulika.co.in/our-story/</loc>
+  <lastmod>2025-02-18T15:05:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.madhulika.co.in/contact-us/</loc>
+  <lastmod>2025-02-18T15:05:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
